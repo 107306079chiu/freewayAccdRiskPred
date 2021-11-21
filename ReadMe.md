@@ -4,15 +4,25 @@
 - intern project @ CECI, instructors: F. Su, Q. Hsieh, and Y. Lee.
 
 ----
+
 0 Preface
+
 1 Introduction
+
 2 Input/Output Form
+
  2.1 Raw VD之處理
+ 
  2.2 全局-Input/Output
+ 
  2.3 局部-Input/Output
+ 
 3 Model Structure & Usage
+
  3.1 1D CNN
+ 
  3.2 SVM
+ 
 ----
 
 # 0 Preface (Project)
