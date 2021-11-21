@@ -1,6 +1,6 @@
 # Digi+talent 跨域數位人才加速躍升計畫 中華顧問工程司-多元運輸組 《高速公路之車流狀況與事故預警平台》: 預測模型
 - project running on: http://35.74.237.16/ceci
-- group members: S. Lin, T. Cheng, C. Zhu
+- group members: S. Lin, T. Cheng, C. Zhu, and S. Chiu.
 - intern project @ CECI, instructors: Y. Lee, F. Su, Q. Hsieh
 
 --------catalog--------
