@@ -1,4 +1,6 @@
-# Digi+talent 跨域數位人才加速躍升計畫 中華顧問工程司-多元運輸組 《高速公路之車流狀況與事故預警平台》: 預測模型
+# 高速公路之車流狀況與事故預警平台
+### this repo為分工：預測模型 
+### Digi+talent 跨域數位人才加速躍升計畫 中華顧問工程司-多元運輸組
 - project running on: http://35.74.237.16/ceci
 - group members and work spilt: C. Zhu (UI), S. Chiu (prediction model), S. Lin (frontend), and T. Cheng (backend).
 - intern project @ CECI, instructors: F. Su, Q. Hsieh, and Y. Lee.
